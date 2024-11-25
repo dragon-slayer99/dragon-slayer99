@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **guudurumahesh@gmail.com**
 
-- ⚡ Fun fact **Did you know that a group of owls is called a parliament?**
+- ⚡ Fun fact **"Did you know that a group of owls is called a parliament?"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
