@@ -1,32 +1,73 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm mahesh</h1>
-<h3 align="center">A passionate computer science engineering student</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c24b86c234ef154ad8b0a621713ffda5e56e2b1190171a2b6ef2139621e71c14/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313639303033343935363534362f31303163313639342d376538372d343538652d616664352d6162363563343863343638652e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragon-slayer99&label=Profile%20views&color=0e75b6&style=flat" alt="dragon-slayer99" /> </p>
+<h2 align="left">Hi 👋! My name is Mahesh and I'm a student, from India</h2>
 
-- 🧹 I am a **Cyber Janitor**
+###
 
-- 🔭 I’m currently working on **my portfolio website**
+<br clear="both">
 
-- 🌱 I’m currently learning **web development**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dragon-slayer99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dragon-slayer99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 📫 How to reach me **guudurumahesh@gmail.com**
+###
 
-- ⚡ Fun fact **"Did you know that a group of owls is called a parliament?"**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dragon-slayer99.dragon-slayer99&"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/gudoorumahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gudoorumahesh" height="30" width="40" /></a>
-<a href="https://instagram.com/__mah__esh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mah__esh_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gudoorumahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gudoorumahesh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_0t0g4qxlt30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_0t0g4qxlt30" height="30" width="40" /></a>
-</p>
+###
 
+<img align="right" height="150" src="https://i.pinimg.com/736x/d5/bf/25/d5bf25b6dd02774fc725028824c1348b.jpg"  />
 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragon-slayer99&show_icons=true&locale=en&layout=compact" alt="dragon-slayer99" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragon-slayer99&show_icons=true&locale=en" alt="dragon-slayer99" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragon-slayer99&" alt="dragon-slayer99" /></p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dragon-slayer99/dragon-slayer99/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kttgwk7c7jyu9ewdq08m3rvdd">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kttgwk7c7jyu9ewdq08m3rvdd&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
