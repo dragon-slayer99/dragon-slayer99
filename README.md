@@ -85,17 +85,17 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/dragon-slayer99/algosphere">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dragon-slayer99&repo=algosphere&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+        <img src="https://raw.githubusercontent.com/dragon-slayer99/dragon-slayer99/refs/heads/main/ALGOSPHERE.png" />
 </a>
 
 <a href="https://github.com/dragon-slayer99/chess-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dragon-slayer99&repo=chess-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+  <img src="https://raw.githubusercontent.com/dragon-slayer99/dragon-slayer99/refs/heads/main/TODOCLI.png" />
 </a>
 
-</div>
+</div> -->
 
 ### 🌟 AlgoSphere
 A comprehensive collection of algorithm snippets across all major programming languages - your one-stop destination for algorithmic solutions!
