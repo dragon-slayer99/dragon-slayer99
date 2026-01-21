@@ -115,8 +115,7 @@ An interactive chess game built with Java, featuring smooth gameplay and an intu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragon-slayer99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-slayer99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dragon-slayer99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" alt="GitHub Stats" width="100%"/>
 
 </div>
 
